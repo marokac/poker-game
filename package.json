@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "babel-jest": "^29.6.4",
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "tsc",
+    "test:build": "npm run test && npm run build",
+    "start": "ts-node ./src/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
