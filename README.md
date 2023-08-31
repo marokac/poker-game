@@ -34,7 +34,7 @@ Run `$ npm test` to execute the unit tests. This command will return the test re
 
 Run ` $ npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Output of running the application
+
 
 
 ## Test result and coverage
