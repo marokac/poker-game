@@ -4,9 +4,9 @@ Poker game is a Typescript(https://www.typescriptlang.org/docs/) console-based a
 
 it includes the following fuctionality:
 
-• Simulate shuffling a standard deck of 52 cards.
-• Deal a single hand of 5 cards to the player.
-• Evaluate the player’s hand, informing them of the highest ranked poker hand that matches their hand of 5 cards.
+1. Simulate shuffling a standard deck of 52 cards.
+2. Deal a single hand of 5 cards to the player.
+3. Evaluate the player’s hand, informing them of the highest ranked poker hand that matches their hand of 5 cards.
 
 ### Development Prerequisites
 
