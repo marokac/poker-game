@@ -6,4 +6,7 @@
 /node_modules
 # misc
 /coverage
+# System Files
+.DS_Store
+
 
