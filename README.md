@@ -34,7 +34,11 @@ Run `$ npm test` to execute the unit tests. This command will return the test re
 
 Run ` $ npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-
-
+## Example output of running the application
+<img width="1093" alt="image" src="https://github.com/marokac/poker-game/assets/28707139/9d23aa39-12b0-42d0-bbe7-28042449924c">
 
 ## Test result and coverage
+<img width="1093" alt="image" src="https://github.com/marokac/poker-game/assets/28707139/b4b11bb8-09ca-49ce-990b-f54af7cccebd">
+
+
+
